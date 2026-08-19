@@ -1,0 +1,11 @@
+# Real attendance data — contains classmates' real names, never commit this
+students.csv
+attendance_log.csv
+
+# Python
+__pycache__/
+*.pyc
+
+# OS clutter
+.DS_Store
+Thumbs.db
